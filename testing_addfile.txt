@@ -7,4 +7,6 @@ i want to create a new major version which means a new branch so i'm adding this
 
 done with changes ,now i want to merge this new major version with the old-one
 
+i wanted to update the master branch only even after creating a latest major version, so i used this line
+
 Thank you
