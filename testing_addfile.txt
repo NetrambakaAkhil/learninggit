@@ -3,4 +3,6 @@ i wanted to learn about git today
  
 i wrote this line by opening the testing_addfile and then clicked on edit to write this line.
 
+i want to create a new major version which means a new branch so i'm adding this line
+
 Thank you
